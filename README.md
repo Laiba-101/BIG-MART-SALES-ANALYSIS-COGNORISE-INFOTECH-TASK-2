@@ -16,7 +16,7 @@ and inform strategic decisions. By analyzing sales data comprehensively, Big Mar
 - Standard Class is the most profitable shipping mode, followed by Second Class, First Class, and Same Day.
 - Sean Miller and Tamara Chand are the top customers, with sales of 25K and 19K respectively.
 - The Canon imageCLASS 2200 Advanced Copier is the top-selling product with 61,598.82 in sales and 25,199.93 in profit.
-- 
+  
 These insights provide a clear picture of Big Mart's sales performance, highlighting key trends, top-performing regions, and products, as well as customer preferences.
 This information can be valuable for strategic decision-making and improving business operations.
 
